@@ -1,0 +1,15 @@
+Service,Size,Substrate,System,Rate
+Hydraulic,DN50,Wall,PVC pipe collar + seal,43.94
+Hydraulic,DN65,Wall,PVC pipe collar + seal,55.00
+Hydraulic,DN80,Wall,PVC pipe collar + seal,68.00
+Hydraulic,DN100,Wall,PVC pipe collar + seal,85.00
+Hydraulic,DN150,Wall,PVC pipe collar + seal,135.00
+Hydraulic,DN50,Slab,PVC pipe collar + seal,55.00
+Hydraulic,DN100,Slab,PVC pipe collar + seal,110.00
+Electrical,Small,Wall,Mastic seal,35.00
+Electrical,Medium,Wall,Mastic seal,65.00
+Electrical,Cable Tray,Wall,Board + mastic,180.00
+Mechanical,Small Duct,Wall,Board system,250.00
+Mechanical,Large Duct,Wall,Board system,650.00
+Fire Rated Joint,Linear metre,Wall,Mastic joint,18.00
+Board System,Medium,Wall,FR board + seal,320.00
